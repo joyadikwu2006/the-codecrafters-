@@ -1,6 +1,6 @@
 ```markdown
  # The file pipeline
- It a tool that 
+ It a tool that input and give you an output in the output.txt
 
  ## feautures
 func main
