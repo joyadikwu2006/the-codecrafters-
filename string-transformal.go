@@ -1,3 +1,10 @@
+
+       // CodeCrafters — Operation Gopher Protocol
+       // Module: String Transformer
+       // Author: [Joy Adikwu]
+       // Squad:  [THE DEPLOYABLES]
+
+
 package main
 
 import (
