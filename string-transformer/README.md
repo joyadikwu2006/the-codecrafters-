@@ -14,9 +14,11 @@
 it transform any string given to it by the user and transform the strings to whatever transformal given to it by the user.
 
 ## usage
-
-To run the code use: go run . input.txt output.txt 
-
+To run the code you use: go run
+                   next: enter transformal
+                   next: enter string to transform
+                   then you get your output  
+if you want to quit the program you type quit to exit
 
        // CodeCrafters — Operation Gopher Protocol
        // Module: String Transformer
