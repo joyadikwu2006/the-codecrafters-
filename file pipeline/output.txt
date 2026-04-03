@@ -1,1 +1,17 @@
+SENTINEL FIELD REPORT — PROCESSED
+
+001. THIS IS A NORMAL REPORT LINE
+002. ACTION: Fix the broken pipeline module
+003. [REDACTED]: Operation starts at dawn
+004. this line is all lowercase
+005. THIS LINE IS ALL CAPS
+006. ACTION:   Update documentation with latest changes
+007. Random line with numbers 12345 and symbols !@#$%
+008. [REDACTED]:   Secret access code is 9876
+009. Another normal line
+010. mixed Case Line With Spaces
+
+--- SUMMARY ---
+Lines processed: 20
+Lines removed: 10
 
