@@ -25,6 +25,6 @@ if you are done you wish to exit you enter "quit" to exit. you get a goodbye mes
 
 
        // CodeCrafters — Operation Gopher Protocol
-       // Module: The pipline file
+       // Module: calculator
        // Author: [Joy Adikwu]
        // Squad:  [The Deployables]
